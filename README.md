@@ -4,7 +4,7 @@ Anastomosis is a peer-reviewed journal, operated by volunteer scientists whom ca
 Anastomosis utlizes an open submission system, anyone from first-time authors to researchers can participate.
 
 ### Submission Guidelines
-*All works submitted must meet all the basic submission guidelines to be eligible for publication by Anastomosis.
+*All works submitted must meet all the basic submission guidelines to be eligible for publication by Anastomosis.*
 
 1. Work must be original, the submittor must the author, or one of the co-authors with the permission of the other authors.
 2. The subject of the work must be related to networks, and network science, but it can be of any topic or scientific discipline.
