@@ -7,4 +7,4 @@ Articles submitted to Anastomosis are collected and published as issues in a EPU
 ### Alpha Issues
 In order to experiment with the process to better understand the tools that will need to be created Anastomosis first issues will be named after early software releases. These issues will follow the Open Research Publishing standard being developed but will contain on average less ariticles with relaxed length requirements. 
 
-*There are no published issues yet, if you are interested in submitting read the [submission guidelines](https://github.com/Anastomosis/Submissions).
+*There are no published issues yet, if you are interested in submitting read the [submission guidelines](https://github.com/Anastomosis/Submissions).*
