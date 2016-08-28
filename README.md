@@ -25,6 +25,6 @@ Open Research Publishing is defined by the open standard being actively being cr
 
 All submissions must be peer-reviewed by at least 2 peers, whom have a public record illustrating expertise in the same or similar field. Reviews are cryptographically proven by submitting your work signed with two signatures.
 
-Submissions are exclusively judged only on the quality of submitted work and contributions in discussions. Nothing else is factored into the decisions making process Submissions are operated as a meritocracy, 
+Submissions are exclusively judged only on the quality of submitted work and contributions in discussions.
 
 
