@@ -12,13 +12,7 @@ Open Research Publishing is defined by the open standard being actively being cr
 
 **Formating and Layouts** An open standard for formatting and layouts must be established that present published work inline with existing trends in professional publications. Open and free layouts which meet this standard must be made available.
 
-**Electronic Publishing** 
-
-
-
-
-
-Operating as a decentralized organization
+**Electronic Publishing** Operating as a decentralized organization will help address the problems with longevity that electronic publishers can be subject to.
 
  
 
